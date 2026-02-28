@@ -74,6 +74,7 @@ or IoT sensor networks.
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | 6 | Jan 26 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Jan 25 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 26 |
+| [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/releases) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 10 (as of 2026-02-26) | ?? (fork of [official firmware](https://github.com/meshcore-dev/MeshCore), kept in sync (as of 2026-02-26)) |
 
 
 ## Maps and Diagnostics
