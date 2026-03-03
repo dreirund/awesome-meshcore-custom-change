@@ -77,6 +77,7 @@ or IoT sensor networks.
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 3 | Feb 26 |
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) |  MeshCore addon for Heltec WiFi LoRa 32 V4 | 2 | Feb 26 |
 | [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/releases) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling, &hellip; See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | 10 (as of 2026-02-26) | ?? (fork of [official firmware](https://github.com/meshcore-dev/MeshCore), kept in sync (as of 2026-02-26)) |
+| [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | 1 | Jan 26 |
 
 
 
