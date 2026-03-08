@@ -86,6 +86,7 @@ or IoT sensor networks.
 | [Mesh Loader](https://github.com/eliahreeves/mesh-loader) | "Dual Boot" firmware for running Meshcore and Meshtastic on a single Ep32 based device without re-flashing. | 3 | Feb 26 |
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) |  MeshCore addon for Heltec WiFi LoRa 32 V4 | 2 | Feb 26 |
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | 1 | Jan 26 |
+| [Meshcore custome firmware builder](https://github.com/christian45410/meshcore-cfw-builder) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | 1 | Mar 26 |
 
 
 
