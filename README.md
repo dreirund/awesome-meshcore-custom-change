@@ -72,7 +72,6 @@ or IoT sensor networks.
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
 | [Esphome Meshcore (sensor) Component](https://github.com/netmilk/esphome-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/netmilk/esphome-meshcore?style=social) | Control anything ESPHome can touch — switches, sensors, fans, lights — over long-range LoRa mesh, managed from MeshCore Companion. | Mar 26 |
 
- | Mar 2026 |
 
 ## Free and Open Source firmware
 
