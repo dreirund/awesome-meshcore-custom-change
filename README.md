@@ -71,6 +71,7 @@ or IoT sensor networks.
 | [MeshCore Email Gateway](https://github.com/MGJ520/MeshCore-Email-Gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/MGJ520/MeshCore-Email-Gateway?style=social)  | This gateway allows you to send and receive messages from MeshCore RF nodes using ordinary email, and comes with a web‑based management interface | Mar 26 |
 | [MC-Keygen](https://github.com/samschlegel/meshcore-utils)  ![GitHub Repo stars](https://img.shields.io/github/stars/samschlegel/meshcore-utils?style=social) | Vanity Ed25519 key generator for MeshCore. (AI Code) | Feb 26 |
 | [Esphome Meshcore (sensor) Component](https://github.com/netmilk/esphome-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/netmilk/esphome-meshcore?style=social) | Control anything ESPHome can touch — switches, sensors, fans, lights — over long-range LoRa mesh, managed from MeshCore Companion. | Mar 26 |
+| [MeshCore Wireshark Dissector](https://github.com/aaronb/wireshark-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/aaronb/wireshark-meshcore?style=social) | Wireshark protocol dissector and pcapng converter for MeshCore LoRa mesh networking | Mar 26 |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
 
 
@@ -84,6 +85,7 @@ or IoT sensor networks.
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/Meshcore-Wio-Tracker-L1-Pro?style=social) | Wio Tracker L1 Pro Custom firmware | Jan 26 |
 | [MeshCore Evo](https://github.com/mattzzw/MeshCore-Evo/) ![GitHub Repo stars](https://img.shields.io/github/stars/mattzzw/MeshCore-Evo?style=social) | Repeater firmware based on the official firmware with adaptions and improvements for big or high density areas, e.g. dealing with flood advert traffic, duty cycle handling. See [release notes](https://github.com/mattzzw/MeshCore/releases) for information; also [hansemesh](https://hansemesh.de/repeater#firmware) (in German). | Feb 26 |
 | [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) ![GitHub Repo stars](https://img.shields.io/github/stars/sosprz/meshcore-cardputer-adv?style=social) | Cardputer ADV Specialized UI | Feb 26 |
+| [ZephCore](https://github.com/liquidraver/ZephCore) ![GitHub Repo stars](https://img.shields.io/github/stars/liquidraver/ZephCore?style=social) | A port of MeshCore LoRa mesh firmware from Arduino to Zephyr RTOS | Mar 26 | 
 | [CubeCellMeshCore](https://github.com/atomozero/CubeCellMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/CubeCellMeshCore?style=social) | A minimal MeshCore-compatible repeater firmware for Heltec CubeCell boards | Jan 26 |
 | [Meck](https://github.com/pelgraine/Meck) ![GitHub Repo stars](https://img.shields.io/github/stars/pelgraine/Meck?style=social) | T-Deck pro | Jan 25 |
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) ![GitHub Repo stars](https://img.shields.io/github/stars/mtoolstec/TapTapFW?style=social) | T1000-E & WisMesh Tag — enhanced messaging capabilities and specific button interactions | Feb 26 |
@@ -91,6 +93,7 @@ or IoT sensor networks.
 | [Meshcomod](https://github.com/ALLFATHER-BV/meshcomod) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/meshcomod?style=social) | MeshCore addon for Heltec WiFi LoRa 32 V4 | Feb 26 |
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | Jan 26 |
 | [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
+| [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
 
 
 ## Software Libraries
@@ -117,6 +120,8 @@ or IoT sensor networks.
 | [Mesh Utility](https://mesh-utility.org/) | Progressive Web App for mapping MeshCore LoRa coverage with optional cloud ingestion |
 | [MCSim](https://github.com/Brent-A/mcsim) | Simulation framework for MeshCore LoRa mesh networking firmware |
 | [Meshcore Geo Prune](https://static.pixelentry.de/meshcore/geo-prune/) | Clean up your contact list based on geofencing |
+| [UK Mesh Network](https://www.ukmesh.com/) | UK-wide public site for MeshCore traffic, repeater coverage, observer ingestion, and the supporting documentation behind the live map. [github](https://github.com/gadgethd/ukmesh) |
+| [Mesh Community Planner](https://github.com/PapaSierra555/MeshCommunityPlanner/) | Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. |
 
 
 ## Preinstalled devices
