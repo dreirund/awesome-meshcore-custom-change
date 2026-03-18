@@ -99,10 +99,10 @@ or IoT sensor networks.
 
 ## Software Libraries
 
-| Project Name | Description | Stars | First Commit |
-| :--- | :--- | :---: | :--- |
-| [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | 1 | Feb 26 |
-| [Meshcore Client](https://github.com/dz0ny/meshcore_client) | Flutter/Dart package implementing the MeshCore BLE companion protocol | 1 | Feb 26 |
+| Project Name | Description | First Commit |
+| :--- | :--- | :---: |
+| [MeshCoreKmp](https://github.com/Wavesonics/MeshCoreKmp) ![GitHub Repo stars](https://img.shields.io/github/stars/Wavesonics/MeshCoreKmp?style=social) | A Kotlin Multiplatform library for connecting to and communicating with MeshCore companion nodes. | Feb 26 |
+| [Meshcore Client](https://github.com/dz0ny/meshcore_client) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore_client?style=social) | Flutter/Dart package implementing the MeshCore BLE companion protocol | Feb 26 |
 
 
 ## Maps and Diagnostics
@@ -143,12 +143,13 @@ or IoT sensor networks.
 
 | Project / URL | Connection | Description |
 | :--- | :--- | :--- |
-| [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
-| [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
-| [Meshcore to Discord Bridge](https://github.com/Hude06/MeshCoreDiscordBridge) | Serial | provides a bridge between MeshCore and Discord. |
-| [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
-| [UK Mesh WX](https://github.com/hostyorkshire/UKmeshWX) |  | A Python utility for broadcasting UK weather data using real-time weather data from Open-Meteo API |
+| [Agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) ![GitHub Repo stars](https://img.shields.io/github/stars/agessaman/meshcore-bot?style=social) | Serial, BLE or TCP/IP | Responds to commands |
+| [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) ![GitHub Repo stars](https://img.shields.io/github/stars/Cyclenerd/meshcore-bot?style=social) | Serial | Responds to commands |
+| [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) ![GitHub Repo stars](https://img.shields.io/github/stars/recrof/map.meshcore.dev-uploader?style=social) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
+| [Meshcore to Discord Bridge](https://github.com/Hude06/MeshCoreDiscordBridge) ![GitHub Repo stars](https://img.shields.io/github/stars/Hude06/MeshCoreDiscordBridge?style=social) | Serial | provides a bridge between MeshCore and Discord. |
 
+
+---
 
 
 ## Country / region Websites
