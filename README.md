@@ -173,8 +173,7 @@ or IoT sensor networks.
 - Latvia
   - [MeshCore Latvia](https://apraide.lv/)
 - Netherlands
-  - [Meshcore Netherlands ](https://www.localmesh.nl/)
-  - [Dutch wiki](https://meshwiki.nl/)
+  - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
 - Poland
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
