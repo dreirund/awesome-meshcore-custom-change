@@ -74,7 +74,9 @@ or IoT sensor networks.
 | [Esphome Meshcore (sensor) Component](https://github.com/netmilk/esphome-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/netmilk/esphome-meshcore?style=social) | Control anything ESPHome can touch — switches, sensors, fans, lights — over long-range LoRa mesh, managed from MeshCore Companion. | Mar 26 |
 | [MeshCore Wireshark Dissector](https://github.com/aaronb/wireshark-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/aaronb/wireshark-meshcore?style=social) | Wireshark protocol dissector and pcapng converter for MeshCore LoRa mesh networking | Mar 26 |
 | [MeschaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | A textual TUI wrapper over Meshcore_py | Jan 26 |
-
+| [Spectra](https://forge.hackers.town/Wrewdison/Spectra) | Spectra is a bridge for Mesh Radios like MeshCore and Meshtastic, powered by Veilid. | Mar 26 | 
+| [MeshCore Insights](https://github.com/BomBefok/MeshcoreInsights)  ![GitHub Repo stars](https://img.shields.io/github/stars/BomBefok/MeshcoreInsights?style=social) | A Graphical software interface to interact with Meshcore companion nodes. | Mar 26 | 
+| [Yours](https://github.com/STCisGOOD/yours-x-lunarcore)  ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Encrypted P2P messaging over LoRa mesh, using Lunacore firmware | Mar 26 | 
 
 ## Free and Open Source firmware
 
@@ -96,6 +98,7 @@ or IoT sensor networks.
 | [Aurora](https://forge.hackers.town/wrewdison/aurora) | Meshcore firmware for the Lilygo T-Deck, as an alternative to Ripple. | Jan 26 |
 | [Meshcore custom firmware builder](https://github.com/christian45410/meshcore-cfw-builder) ![GitHub Repo stars](https://img.shields.io/github/stars/christian45410/meshcore-cfw-builder?style=social) | A web-based firmware builder for MeshCore. Select your board, firmware type, and custom flags — get a compiled .bin back. | Mar 26 |
 | [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID)  ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social) | MeshcoreGRID is a touch-first handheld firmware built on MeshCore | Jan 26 |
+| [weebl2000's MeshCore Firmware Builder](https://mcimages.weebl.me/) | Build and download firmware images for your device.|  |
 
 
 ## Software Libraries
@@ -124,6 +127,7 @@ or IoT sensor networks.
 | [Meshcore Geo Prune](https://static.pixelentry.de/meshcore/geo-prune/) | Clean up your contact list based on geofencing |
 | [UK Mesh Network](https://www.ukmesh.com/) | UK-wide public site for MeshCore traffic, repeater coverage, observer ingestion, and the supporting documentation behind the live map. [github](https://github.com/gadgethd/ukmesh) |
 | [Mesh Community Planner](https://github.com/PapaSierra555/MeshCommunityPlanner/) | Desktop application for planning LoRa mesh network deployments with terrain-aware RF propagation, hardware selection, and bill of materials generation. |
+| [MeshCore Wall of Shame](https://advertrank.com/) | Who's flooding the mesh today? a lighthearted look at mesh traffic, not a witch hunt. | 
 
 
 ## Preinstalled devices
@@ -207,6 +211,7 @@ or IoT sensor networks.
 ### North America
 
 - Canada
+  - [CascadiaMesh](https://cascadiamesh.org) - Pacific Northwest, currently covers British Columbia, Western Washington, and Western Oregon.  
   - [Greater Ottowa Mesh](https://ottawamesh.ca/)
   - [Puget Mesh](https://pugetmesh.org/)
   - [Salish Mesh](https://salishmesh.net/)
@@ -215,6 +220,7 @@ or IoT sensor networks.
   - [Austin, TX](https://www.austinmesh.org/)
   - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [Boston Mesh](https://bostonme.sh/)
+  - [CascadiaMesh](https://cascadiamesh.org) - Pacific Northwest, currently covers British Columbia, Western Washington, and Western Oregon. 
   - [Colorado Mesh](https://coloradomesh.org/)
   - [CT Mesh](https://ctmesh.org/)
   - [Florida Mesh](https://mc.flmesh.us/)
