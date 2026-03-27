@@ -77,6 +77,7 @@ or IoT sensor networks.
 | [Spectra](https://forge.hackers.town/Wrewdison/Spectra) | Spectra is a bridge for Mesh Radios like MeshCore and Meshtastic, powered by Veilid. | Mar 26 | 
 | [MeshCore Insights](https://github.com/BomBefok/MeshcoreInsights)  ![GitHub Repo stars](https://img.shields.io/github/stars/BomBefok/MeshcoreInsights?style=social) | A Graphical software interface to interact with Meshcore companion nodes. | Mar 26 | 
 | [Yours](https://github.com/STCisGOOD/yours-x-lunarcore)  ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Encrypted P2P messaging over LoRa mesh, using Lunacore firmware | Mar 26 | 
+| [MeshOS for Android](https://github.com/andymux/meshos-releases) ![GitHub Repo stars](https://img.shields.io/github/stars/andymux/meshos-releases?style=social) | MeshOS for Android - An official MeshCore App  | Mar 26  | 
 
 ## Free and Open Source firmware
 
